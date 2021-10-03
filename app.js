@@ -6,9 +6,9 @@ const port=process.env.PORT || 3000;
 require('dotenv').config()
 
 // Paths
-const publicStaticPath=path.join(__dirname,"../public");
-const template_path=path.join(__dirname,"../templates/views");
-const partials_path=path.join(__dirname,"../templates/partials")
+const publicStaticPath=path.join(__dirname,"public");
+const template_path=path.join(__dirname,"templates/views");
+const partials_path=path.join(__dirname,"templates/partials")
 
 app.set('view engine','hbs');
 app.set('views',template_path);
