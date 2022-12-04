@@ -5,7 +5,7 @@ node server.js
 ```
 
 ## Home Page
-![Image Does Not Found](https://gdurl.com/uwhN)
+![Image Does Not Found](https://gdurl.com/azMu)
 
 ## Check Weather Page
 ![Image Does Not Found](https://gdurl.com/a6Xl)
