@@ -5,10 +5,10 @@ node server.js
 ```
 
 ## Home Page
-![Image Does Not Found](/public/images/weatherappHome.png)
+![Image Does Not Found](https://gdurl.com/uwhN)
 
 ## Check Weather Page
-![Image Does Not Found](/public/images/weatherappweather.png)
+![Image Does Not Found](https://gdurl.com/a6Xl)
 
 ## Working
-![Image Does Not Found](/public/images/weatherappworking.png)
+![Image Does Not Found](https://gdurl.com/bHjL)
